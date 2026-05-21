@@ -28,11 +28,3 @@ This repository contains templates and automation logic to reduce manual adminis
 This repository contains **structural templates only**. It does not store, process, or expose any proprietary client data, API keys, or store credentials. All inputs are handled locally to ensure complete data security.
 
 ---
-
-## 🤝 Need E-commerce Setup Help?
-I specialize in helping e-commerce business owners save time by automating their product management workflows. If you need help with bulk uploads, database mapping, or shopify/woocommerce migrations, let's connect.
-
-[**View my Freelance Services on Fiverr**]([Link_to_your_Fiverr_Profile](https://www.fiverr.com/adam_dayekh))
-
----
-*Maintained by [Adam Dayekh] | Technical & Data Specialist*

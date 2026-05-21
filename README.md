@@ -35,4 +35,4 @@ I specialize in helping e-commerce business owners save time by automating their
 [**View my Freelance Services on Fiverr**]([Link_to_your_Fiverr_Profile](https://www.fiverr.com/adam_dayekh))
 
 ---
-*Maintained by [Your Name] | Technical & Data Specialist*
+*Maintained by [Adam Dayekh] | Technical & Data Specialist*
